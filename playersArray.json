@@ -4,7 +4,7 @@
     {
     "PlayerName": "Danny Green",
     "Team": "Philadelphia 76ers",
-    "PPG": "8.9",
+    "PPG": ""8.9"",
     "APG": "1.6",
     "RPG": "3.5",
     "Years": "12",
@@ -14,7 +14,7 @@
     {
     "PlayerName": "Steph Curry",
     "Team": "Golden State Warriors",
-    "PPG": "24.5",
+    "PPG": ""24.5"",
     "APG": "6.5",
     "RPG": "4.6",
     "Years": "12",
@@ -24,7 +24,7 @@
     {
     "PlayerName": "Klay Thompson",
     "Team": "Golden State Warriors",
-    "PPG": "19.5",
+    "PPG": ""19.5"",
     "APG": "3.5",
     "RPG": "2.3",
     "Years": "10",
@@ -34,7 +34,7 @@
     {
     "PlayerName": "Joel Embiid",
     "Team": "Philadelphia 76ers",
-    "PPG": "24.7",
+    "PPG": ""24.7"",
     "APG": "3.1",
     "RPG": "11.3",
     "Years": "7",
@@ -44,7 +44,7 @@
     {  
     "PlayerName": "Luka Doncic",
     "Team": "Dallas Mavericks",
-    "PPG": "25.7",
+    "PPG": ""25.7"",
     "APG": "8.3",
     "RPG": "7.8",
     "Years": "12",
