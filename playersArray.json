@@ -1,5 +1,7 @@
 {
   "NBAPlayer":[ {
+    
+    {
     "PlayerName": "Danny Green",
     "Team": "Philadelphia 76ers",
     "PPG": "8.9",
@@ -7,7 +9,9 @@
     "RPG": "3.5",
     "Years": "12",
     "Picture": "dannyGreen.png",
-    "Ref": "https:\/\/www.basketball-reference.com\/players\/g\/greenda02.html",
+    "Ref": "https://www.basketball-reference.com/players/g/greenda02.html"
+    },
+    {
     "PlayerName": "Steph Curry",
     "Team": "Golden State Warriors",
     "PPG": "24.5",
@@ -15,15 +19,19 @@
     "RPG": "4.6",
     "Years": "12",
     "Picture": "stephenCurry.png",
-    "Ref": "https:\/\/www.basketball-reference.com\/players\/c\/curryst01.html",
+    "Ref": "https://www.basketball-reference.com/players/c/curryst01.html"
+    },
+    {
     "PlayerName": "Klay Thompson",
     "Team": "Golden State Warriors",
     "PPG": "19.5",
     "APG": "3.5",
     "RPG": "2.3",
     "Years": "10",
-    "Picture": "stephenCurry.png",
-    "Ref": "https:\/\/www.basketball-reference.com\/players\/t\/thompkl01.html",
+    "Picture": "klayThompson.png",
+    "Ref": "https://www.basketball-reference.com/players/t/thompkl01.html"
+    },
+    {
     "PlayerName": "Joel Embiid",
     "Team": "Philadelphia 76ers",
     "PPG": "24.7",
@@ -31,7 +39,9 @@
     "RPG": "11.3",
     "Years": "7",
     "Picture": "joelEmbiid.png",
-    "Ref": "https:\/\/www.basketball-reference.com\/players\/e\/embiijo01.html",
+    "Ref": "https://www.basketball-reference.com/players/e/embiijo01.html"
+    },
+    {  
     "PlayerName": "Luka Doncic",
     "Team": "Dallas Mavericks",
     "PPG": "25.7",
@@ -39,7 +49,7 @@
     "RPG": "7.8",
     "Years": "12",
     "Picture": "lukaDoncic.png",
-    "Ref": "https:\/\/www.basketball-reference.com\/players\/d\/doncilu01.html"
-    
+    "Ref": "https://www.basketball-reference.com/players/d/doncilu01.html"
+    }
   }]
 }
